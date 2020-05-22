@@ -55,7 +55,7 @@ The names `"semi"` and `"quotes"` are the names of [rules](/docs/rules) in ESLin
 * `"warn"` or `1` - turn the rule on as a warning (doesn't affect exit code)
 * `"error"` or `2` - turn the rule on as an error (exit code will be 1)
 
-The three error levels allow you fine-grained control over how ESLint applies rules (for more configuration options and details, see the [configuration docs](configuring.md)).
+The three error levels gives you fine-grained control over how ESLint applies rules (for more configuration options and details, see the [configuration docs](configuring.md)).
 
 Your `.eslintrc.{js,yml,json}` configuration file will also include the line:
 
